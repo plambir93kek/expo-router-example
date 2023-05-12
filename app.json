@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "research-expo-router",
+    "scheme": "myapp",
     "slug": "research-expo-router",
     "version": "1.0.0",
     "orientation": "portrait",
